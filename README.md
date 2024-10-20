@@ -1,7 +1,7 @@
 
 # Project: **Medicine Review Classification**
 
-### Team: **TEAM0-03: THUNDER**
+### Team: **TEAM-03: THUNDER**
 **Team Members**:
 - Mihir Pandya
 - Aayan
